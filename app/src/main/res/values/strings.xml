@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Esame_Software</string>
+    <string name="move_text">Movement</string>
+    <string name="pos_text">Position</string>
+    <string name="env_text">Environment</string>
+
+</resources>
